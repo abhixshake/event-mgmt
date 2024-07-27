@@ -1,0 +1,91 @@
+[
+  {
+    "id":1,
+    "name":"Event-1",
+    "title":"Event A",
+    "price":0,
+    "category":"Offer",
+    "image":"https://img.freepik.com/free-photo/luxurious-dinner-hall-with-large-crystal-chandelier_8353-565.jpg?w=900&t=st=1722071644~exp=1722072244~hmac=a014c507306474ab610a1b32de2abbb6d3bd19fef5fb5b7db0affdfa3746044c"
+  },
+
+  {
+    "id":2,
+    "name":"Event-2",
+    "title":"Event B",
+    "price":0,
+    "category":"Fixed",
+    "image":"https://img.freepik.com/free-photo/prepared-wedding-hall_8353-9873.jpg?w=900&t=st=1722071748~exp=1722072348~hmac=0902531c493b0fd9108a6b5d926a4a3f5d1510c86520c6e47e6a95c10214cbcb"
+  },
+
+  {
+    "id":3,
+    "name":"Event-3",
+    "title":"Event C",
+    "price":0,
+    "category":"Offer",
+    "image":"https://img.freepik.com/free-photo/decorated-banquet-hall-with-flowers_8353-10058.jpg?size=626&ext=jpg&ga=GA1.2.469084310.1721958272&semt=ais_user"
+  },
+
+  {
+    "id":4,
+    "name":"Event-4",
+    "title":"Event D",
+    "price":0,
+    "category":"Fixed",
+    "image":"https://img.freepik.com/free-photo/photorealistic-wedding-venue-with-intricate-decor-ornaments_23-2151481469.jpg?size=626&ext=jpg&ga=GA1.1.469084310.1721958272&semt=ais_user"
+  },
+
+  {
+    "id":5,
+    "name":"Event-5",
+    "title":"Event E",
+    "price":0,
+    "category":"Offer",
+    "image":"https://img.freepik.com/free-photo/photorealistic-wedding-venue-with-intricate-decor-ornaments_23-2151481468.jpg?size=626&ext=jpg&ga=GA1.1.469084310.1721958272&semt=ais_user"
+  },
+
+  {
+    "id":6,
+    "name":"Event-6",
+    "title":"Event F",
+    "price":0,
+    "category":"Fixed",
+    "image":"https://img.freepik.com/free-photo/decorated-ceremonial-area-outdoors-with-modern-transparent-chairs-beautiful-festoon_8353-10827.jpg?size=626&ext=jpg&ga=GA1.1.469084310.1721958272&semt=ais_user"
+  },
+
+  {
+    "id":7,
+    "name":"Event-7",
+    "title":"Event G",
+    "price":0,
+    "category":"Offer",
+    "image":"https://img.freepik.com/free-photo/magic-view-prepared-evening-restaurant_8353-9910.jpg?size=626&ext=jpg&ga=GA1.1.469084310.1721958272&semt=ais_user"
+  },
+
+  {
+    "id":8,
+    "name":"Event-8",
+    "title":"Event H",
+    "price":0,
+    "category":"Fixed",
+    "image":"https://img.freepik.com/free-photo/bunch-flowers-leaves-table_1304-4187.jpg?size=626&ext=jpg&ga=GA1.1.469084310.1721958272&semt=ais_user"
+  },
+
+  {
+    "id":9,
+    "name":"Event-9",
+    "title":"Event I",
+    "price":0,
+    "category":"Offer",
+    "image":"https://img.freepik.com/free-photo/table-setting-with-focus-goblets-plates_8353-9901.jpg?size=626&ext=jpg&ga=GA1.1.469084310.1721958272&semt=ais_user"
+  },
+  
+  {
+    "id":10,
+    "name":"Event-10",
+    "title":"Event I",
+    "price":0,
+    "category":"Fixed",
+    "image":"https://img.freepik.com/free-photo/photorealistic-wedding-venue-with-intricate-decor-ornaments_23-2151481464.jpg?size=626&ext=jpg&ga=GA1.1.469084310.1721958272&semt=ais_user"
+  }
+]

@@ -3,8 +3,8 @@ import React from 'react'
 const Footer = () => {
     return (
         <div>
-            <hr></hr>
-            <footer className="footer footer-center  text-base-content rounded p-10">
+            
+            <footer className="footer footer-center  text-base-content rounded p-10 pt-20">
                 <nav className="grid grid-flow-col gap-4">
                     <a className="link link-hover">About us</a>
                     <a className="link link-hover">Contact</a>
@@ -49,7 +49,7 @@ const Footer = () => {
                     </div>
                 </nav>
                 <aside>
-                    <p>Copyright © {new Date().getFullYear()} - All right reserved by ACME Industries Ltd</p>
+                    <p>Copyright © {new Date().getFullYear()} - All right reserved by EventX Industries Ltd</p>
                 </aside>
             </footer>
         </div>

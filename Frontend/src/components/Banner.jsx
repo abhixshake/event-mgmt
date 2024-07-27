@@ -25,7 +25,7 @@ const Banner = () => {
                     </label>
                     
                     </div>
-                    <button className="btn btn-active btn-secondary mt-6">Secondary</button>
+                    <button className="btn btn-active btn-secondary mt-6">Send</button>
 
                    
                 </div>
