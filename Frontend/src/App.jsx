@@ -1,17 +1,20 @@
 import React from 'react'
-import Navbar from './components/Navbar'
-import Banner from './components/Banner'
-import Footer from './components/Footer'
-import Homecard from './components/Homecard'
+import Home from './home/Home'
+import { Route, Routes } from "react-router-dom"
+import Events from './events/Events'
+import Signup from './components/Signup'
 
 const App = () => {
   return (
-    <div>
-      <Navbar/>
-      <Banner/>
-      <Homecard/>
-      <Footer/>
-    </div>
+    <>
+      <div className="dark:bg-slate-900 dark:text-white">
+        <Routes>
+          <Route path="/" element={<Home/>}/>
+          <Route path="/eventspage" element={<Events/>}/>
+          <Route path="/signup" element={<Signup/>}/>
+        </Routes>
+      </div>
+    </>
   )
 }
 
